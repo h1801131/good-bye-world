@@ -1,0 +1,27 @@
+#Doing something that I haven't learned how to do yet.. 
+#This will be fun..
+
+# The never ever dying "Hello World".
+
+print("Hello World")
+
+# print is the name of the function. The function tells Python, what we want to do (in this case, to print some text)
+# quotes are used to surround strings (ALWAYS), we can use either single or double quotes for strings
+print("hello world")
+print('hello world')
+
+#if we do want to include quotes in the output, the easiest thing to do is use the other type of quotes for surrounding the strings
+print('she said "hello world"')
+print("he said 'hello world'")
+
+#another things.. this #(hash) that I'm using (a lot).. they are not for posting on social media later.. we use hash(#) when we make comments.
+#to include a comment in your source code, start the line with a hash(#) symbol and the computer will ignore that line.
+
+#somthing that I already hate: error messages and debugging
+#computer programs never works correctly the first time
+#forgetting quotes
+#Syntaxerror: invalid syntax.. already hate it
+
+#misspell the function
+#syntaxerror: invalid syntax
+
