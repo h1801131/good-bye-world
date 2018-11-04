@@ -1,2 +1,9 @@
-Do something that I haven't learned how to do yet.. 
-That will be fun..
+Doing something that I haven't learned how to do yet.. 
+This will be fun..
+
+# The never ever dying "Hello World".
+
+print("Hello World")
+
+# print is the name of the function. The function tells Python, what we want to do (in this case, to print some text)
+
